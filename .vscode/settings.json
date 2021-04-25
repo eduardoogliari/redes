@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "defs.h": "c",
+        "file_helper.h": "c",
+        "pthread.h": "c",
+        "unistd.h": "c"
+    }
+}
